@@ -1,0 +1,20 @@
+{
+  "name": "my-kurs",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "start:dev": "./conf/start-dev.sh",
+    "start:frontend": "./conf/start-frontend.sh",
+    "start:prod": "./conf/start-prod.sh",
+    "start:test": "./conf/start-test.sh",
+    "dev": "./conf/start-dev.sh",
+    "dev2": "./conf/start-dev-gambi.sh",
+    "dev:gambi": "./conf/start-dev-gambi.sh",
+    "frontend": "./conf/start-frontend.sh",
+    "prod": "./conf/start-prod.sh",
+    "test": "./conf/start-test.sh"
+  }
+}

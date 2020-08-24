@@ -1,0 +1,22 @@
+FROM node:12.18.3-alpine3.9 as builder
+
+WORKDIR /usr/src/app
+
+COPY ./package*.json ./
+
+RUN npm install -g @nestjs/cli
+
+RUN npm install -g jest
+
+RUN npm install #--loglevel=verbose
+
+COPY . .
+
+CMD ["jest"]
+
+
+
+
+
+
+

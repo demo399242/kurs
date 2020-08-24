@@ -1,0 +1,18 @@
+[
+	{ "pp": 1, "name": "KZT", "flag": "kz", "base": true, "gold": false, "text": "Казахский тенге", "sample": "1.00", "digits": 0 },	
+	{ "pp": 2, "name": "GOLD", "flag": "gold", "base": false, "gold": true, "text": "Золото", "sample": "32500.00", "digits": 0 },
+	{ "pp": 3, "name": "USD", "flag": "us", "base": false, "gold": false, "text": "Доллар США", "sample": "425.00", "digits": 0 },
+	{ "pp": 4, "name": "EUR", "flag": "eu", "base": false, "gold": false, "text": "Евро", "sample": "498.00", "digits": 0 },
+	{ "pp": 5, "name": "RUB", "flag": "ru", "base": false, "gold": false, "text": "Российский рубль", "sample": "6.10", "digits":  0},
+	{ "pp": 6, "name": "CNY", "flag": "cn", "base": false, "gold": false, "text": "Китайский Юань", "sample": "52.12", "digits": 0 },
+	{ "pp": 7, "name": "JPY", "flag": "jp", "base": false, "gold": false, "text": "Японская йена", "sample": "3.97", "digits": 0 },
+	{ "pp": 8, "name": "KGS", "flag": "kg", "base": false, "gold": false, "text": "Киргизский Сом", "sample": "5.44", "digits": 0 },
+	{ "pp": 9, "name": "GBP", "flag": "gb", "base": false, "gold": false, "text": "Фунт стерлингов", "sample": "549.13", "digits": 0 },
+	{ "pp": 10, "name": "BGN", "flag": "bg", "base": false, "gold": false, "text": "Болгарский лев", "sample": "253.24", "digits": 0 },
+	{ "pp": 11, "name": "CZK", "flag": "cz", "base": false, "gold": false, "text": "Чешская крона", "sample": "18.86", "digits": 0 },
+	{ "pp": 12, "name": "DKK", "flag": "dn", "base": false, "gold": false, "text": "Датская крона", "sample": "66.43", "digits": 0 },
+	{ "pp": 13, "name": "PLN", "flag": "pl", "base": false, "gold": false, "text": "Польский злотый", "sample": "112.42", "digits": 0 },
+	{ "pp": 14, "name": "NOK", "flag": "no", "base": false, "gold": false, "text": "Норвежскяа крона", "sample": "46.57", "digits": 0 }
+]
+
+

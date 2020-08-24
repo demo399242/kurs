@@ -1,0 +1,41 @@
+version: '3'
+
+# services
+# - - - - - - - - - - - - - - - - - -
+services:
+
+  # backend-script (jest)
+  # - - - - - - - - - - - - - - - - - -
+  backend:
+    build:
+      dockerfile: Dockerfile.backend.test
+      context: ./backend
+    env_file:
+      - ./conf/backend-dev.env
+    restart: "no"
+    depends_on:
+      - mariadb
+    networks:
+      - test-network
+
+  # maria-service2
+  # - - - - - - - - - - - - - - - - - -
+  mariadb:
+    image: mariadb
+    env_file:
+      - ./conf/maria-dev.env
+    restart: "no"
+    ports:
+      - "3306"
+    volumes:
+      - ./db-data:/var/lib/mysql
+    networks:
+      - test-network
+
+# networks
+# - - - - - - - - - - - - - - - - - -
+networks:
+  test-network:
+    driver: bridge
+
+

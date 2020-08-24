@@ -1,0 +1,785 @@
+[
+	{
+		"id": "101",
+		"runame_rus": "Абай",
+		"runame": "Абай",
+		"kzname": "Абай",
+		"population": "28365",
+		"status": "4",
+		"regionName": "Карагандинская область"
+	},
+	{
+		"id": "102",
+		"runame_rus": "Акколь",
+		"runame": "Акколь",
+		"kzname": "Ақкөл",
+		"population": "13676",
+		"status": "4",
+		"regionName": "Акмолинская область"
+	},
+	{
+		"id": "103",
+		"runame_rus": "Аксай",
+		"runame": "Аксай",
+		"kzname": "Ақсай",
+		"population": "35310",
+		"status": "4",
+		"regionName": "Западно-Казахстанская область"
+	},
+	{
+		"id": "104",
+		"runame_rus": "Аксу",
+		"runame": "Аксу",
+		"kzname": "Ақсу",
+		"population": "41639",
+		"status": "3",
+		"regionName": "Павлодарская область"
+	},
+	{
+		"id": "105",
+		"runame_rus": "Актау",
+		"runame": "Актау",
+		"kzname": "Ақтау",
+		"population": "183006",
+		"status": "2",
+		"regionName": "Мангистауская область"
+	},
+	{
+		"id": "106",
+		"runame_rus": "Актобе",
+		"runame": "Актобе",
+		"kzname": "Ақтөбе",
+		"population": "500000",
+		"status": "2",
+		"regionName": "Актюбинская область"
+	},
+	{
+		"id": "107",
+		"runame_rus": "Алга",
+		"runame": "Алга",
+		"kzname": "Алға",
+		"population": "20432",
+		"status": "4",
+		"regionName": "Актюбинская область"
+	},
+	{
+		"id": "108",
+		"runame_rus": "Алма-Ата",
+		"runame": "Алматы",
+		"kzname": "Алматы",
+		"population": "1854656",
+		"status": "1",
+		"regionName": "Алматинская область"
+	},
+	{
+		"id": "109",
+		"runame_rus": "Аральск",
+		"runame": "Арал",
+		"kzname": "Арал",
+		"population": "33139",
+		"status": "4",
+		"regionName": "Кызылординская область"
+	},
+	{
+		"id": "110",
+		"runame_rus": "Аркалык",
+		"runame": "Аркалык",
+		"kzname": "Арқалық",
+		"population": "28249",
+		"status": "3",
+		"regionName": "Костанайская область"
+	},
+	{
+		"id": "111",
+		"runame_rus": "Арыс",
+		"runame": "Арыс",
+		"kzname": "Арыс",
+		"population": "44388",
+		"status": "3",
+		"regionName": "Туркестанская область"
+	},
+	{
+		"id": "113",
+		"runame_rus": "Атбасар",
+		"runame": "Атбасар",
+		"kzname": "Атбасар",
+		"population": "28753",
+		"status": "4",
+		"regionName": "Акмолинская область"
+	},
+	{
+		"id": "114",
+		"runame_rus": "Атырау",
+		"runame": "Атырау",
+		"kzname": "Атырау",
+		"population": "269704",
+		"status": "2",
+		"regionName": "Атырауская область"
+	},
+	{
+		"id": "115",
+		"runame_rus": "Аягоз",
+		"runame": "Аягоз",
+		"kzname": "Аягөз",
+		"population": "38536",
+		"status": "4",
+		"regionName": "Восточно-Казахстанская область"
+	},
+	{
+		"id": "117",
+		"runame_rus": "Балхаш",
+		"runame": "Балхаш",
+		"kzname": "Балқаш",
+		"population": "72885",
+		"status": "3",
+		"regionName": "Карагандинская область"
+	},
+	{
+		"id": "118",
+		"runame_rus": "Булаево",
+		"runame": "Булаево",
+		"kzname": "Булаев",
+		"population": "7742",
+		"status": "4",
+		"regionName": "Северо-Казахстанская область"
+	},
+	{
+		"id": "119",
+		"runame_rus": "Державинск",
+		"runame": "Державинск",
+		"kzname": "Державин",
+		"population": "6022",
+		"status": "4",
+		"regionName": "Акмолинская область"
+	},
+	{
+		"id": "120",
+		"runame_rus": "Ерейментау",
+		"runame": "Ерейментау",
+		"kzname": "Ерейментау",
+		"population": "9130",
+		"status": "4",
+		"regionName": "Акмолинская область"
+	},
+	{
+		"id": "121",
+		"runame_rus": "Есик",
+		"runame": "Есик",
+		"kzname": "Есік",
+		"population": "33024",
+		"status": "4",
+		"regionName": "Алматинская область"
+	},
+	{
+		"id": "122",
+		"runame_rus": "Есиль",
+		"runame": "Есиль",
+		"kzname": "Есіл",
+		"population": "10545",
+		"status": "4",
+		"regionName": "Акмолинская область"
+	},
+	{
+		"id": "123",
+		"runame_rus": "Жанаозен",
+		"runame": "Жанаозен",
+		"kzname": "Жаңаөзен",
+		"population": "81545",
+		"status": "3",
+		"regionName": "Мангистауская область"
+	},
+	{
+		"id": "124",
+		"runame_rus": "Жанатас",
+		"runame": "Жанатас",
+		"kzname": "Жаңатас",
+		"population": "22383",
+		"status": "4",
+		"regionName": "Жамбыльская область"
+	},
+	{
+		"id": "125",
+		"runame_rus": "Жаркент",
+		"runame": "Жаркент",
+		"kzname": "Жаркент",
+		"population": "42597",
+		"status": "4",
+		"regionName": "Алматинская область"
+	},
+	{
+		"id": "126",
+		"runame_rus": "Жезказган",
+		"runame": "Жезказган",
+		"kzname": "Жезқазған",
+		"population": "87192",
+		"status": "3",
+		"regionName": "Карагандинская область"
+	},
+	{
+		"id": "127",
+		"runame_rus": "Жем",
+		"runame": "Жем",
+		"kzname": "Жем",
+		"population": "1771",
+		"status": "5",
+		"regionName": "Актюбинская область"
+	},
+	{
+		"id": "128",
+		"runame_rus": "Жетысай",
+		"runame": "Жетысай",
+		"kzname": "Жетісай",
+		"population": "23862",
+		"status": "4",
+		"regionName": "Туркестанская область"
+	},
+	{
+		"id": "129",
+		"runame_rus": "Житикара",
+		"runame": "Житикара",
+		"kzname": "Жітіқара",
+		"population": "34736",
+		"status": "4",
+		"regionName": "Костанайская область"
+	},
+	{
+		"id": "130",
+		"runame_rus": "Зайсан",
+		"runame": "Зайсан",
+		"kzname": "Зайсаң",
+		"population": "16253",
+		"status": "4",
+		"regionName": "Восточно-Казахстанская область"
+	},
+	{
+		"id": "131",
+		"runame_rus": "Зыряновск",
+		"runame": "Зыряновск",
+		"kzname": "Зыряновск",
+		"population": "36116",
+		"status": "3",
+		"regionName": "Восточно-Казахстанская область"
+	},
+	{
+		"id": "132",
+		"runame_rus": "Казалинск",
+		"runame": "Казалинск",
+		"kzname": "Қазалы",
+		"population": "5776",
+		"status": "5",
+		"regionName": "Кызылординская область"
+	},
+	{
+		"id": "133",
+		"runame_rus": "Кандыагаш",
+		"runame": "Кандыагаш",
+		"kzname": "Қандыағаш",
+		"population": "35626",
+		"status": "4",
+		"regionName": "Актюбинская область"
+	},
+	{
+		"id": "134",
+		"runame_rus": "Капшагай",
+		"runame": "Капшагай",
+		"kzname": "Қапшағай",
+		"population": "45522",
+		"status": "4",
+		"regionName": "Алматинская область"
+	},
+	{
+		"id": "135",
+		"runame_rus": "Караганда",
+		"runame": "Караганды",
+		"kzname": "Қарағанды",
+		"population": "497767",
+		"status": "2",
+		"regionName": "Карагандинская область"
+	},
+	{
+		"id": "136",
+		"runame_rus": "Каражал",
+		"runame": "Каражал",
+		"kzname": "Қаражал",
+		"population": "8086",
+		"status": "3",
+		"regionName": "Карагандинская область"
+	},
+	{
+		"id": "137",
+		"runame_rus": "Каратау",
+		"runame": "Каратау",
+		"kzname": "Қаратау",
+		"population": "30214",
+		"status": "4",
+		"regionName": "Жамбыльская область"
+	},
+	{
+		"id": "138",
+		"runame_rus": "Каркаралинск",
+		"runame": "Каркаралинск",
+		"kzname": "Қарқаралы",
+		"population": "8185",
+		"status": "4",
+		"regionName": "Карагандинская область"
+	},
+	{
+		"id": "139",
+		"runame_rus": "Каскелен",
+		"runame": "Каскелен",
+		"kzname": "Қаскелең",
+		"population": "64517",
+		"status": "4",
+		"regionName": "Алматинская область"
+	},
+	{
+		"id": "140",
+		"runame_rus": "Кентау",
+		"runame": "Кентау",
+		"kzname": "Кентау",
+		"population": "68954",
+		"status": "4",
+		"regionName": "Туркестанская область"
+	},
+	{
+		"id": "141",
+		"runame_rus": "Кокшетау",
+		"runame": "Кокшетау",
+		"kzname": "Көкшетау",
+		"population": "145156",
+		"status": "2",
+		"regionName": "Акмолинская область"
+	},
+	{
+		"id": "142",
+		"runame_rus": "Костанай",
+		"runame": "Костанай",
+		"kzname": "Қостанай",
+		"population": "242997",
+		"status": "2",
+		"regionName": "Костанайская область"
+	},
+	{
+		"id": "143",
+		"runame_rus": "Кульсары",
+		"runame": "Кулсары",
+		"kzname": "Құлсары",
+		"population": "60472",
+		"status": "4",
+		"regionName": "Атырауская область"
+	},
+	{
+		"id": "144",
+		"runame_rus": "Курчатов",
+		"runame": "Курчатов",
+		"kzname": "Курчатов",
+		"population": "12411",
+		"status": "3",
+		"regionName": "Восточно-Казахстанская область"
+	},
+	{
+		"id": "145",
+		"runame_rus": "Кызылорда",
+		"runame": "Кызылорда",
+		"kzname": "Қызылорда",
+		"population": "239042",
+		"status": "2",
+		"regionName": "Кызылординская область"
+	},
+	{
+		"id": "146",
+		"runame_rus": "Ленгер",
+		"runame": "Ленгер",
+		"kzname": "Леңгір",
+		"population": "24025",
+		"status": "4",
+		"regionName": "Туркестанская область"
+	},
+	{
+		"id": "147",
+		"runame_rus": "Лисаковск",
+		"runame": "Лисаковск",
+		"kzname": "Лисаковск",
+		"population": "36008",
+		"status": "4",
+		"regionName": "Костанайская область"
+	},
+	{
+		"id": "148",
+		"runame_rus": "Макинск",
+		"runame": "Макинск",
+		"kzname": "Макинск",
+		"population": "17785",
+		"status": "4",
+		"regionName": "Акмолинская область"
+	},
+	{
+		"id": "149",
+		"runame_rus": "Мамлютка",
+		"runame": "Мамлютка",
+		"kzname": "Мамлют",
+		"population": "6866",
+		"status": "4",
+		"regionName": "Северо-Казахстанская область"
+	},
+	{
+		"id": "112",
+		"runame_rus": "Нур-Султан",
+		"runame": "Нур-Султан",
+		"kzname": "Нур-Султан",
+		"population": "1078384",
+		"status": "1",
+		"regionName": "Акмолинская область"
+	},
+	{
+		"id": "150",
+		"runame_rus": "Павлодар",
+		"runame": "Павлодар",
+		"kzname": "Павлодар",
+		"population": "333818",
+		"status": "2",
+		"regionName": "Павлодарская область"
+	},
+	{
+		"id": "151",
+		"runame_rus": "Петропавловск",
+		"runame": "Петропавловск",
+		"kzname": "Петропавл",
+		"population": "218056",
+		"status": "2",
+		"regionName": "Северо-Казахстанская область"
+	},
+	{
+		"id": "152",
+		"runame_rus": "Приозёрск",
+		"runame": "Приозёрск",
+		"kzname": "Приозер",
+		"population": "13332",
+		"status": "3",
+		"regionName": "Карагандинская область"
+	},
+	{
+		"id": "153",
+		"runame_rus": "Риддер",
+		"runame": "Риддер",
+		"kzname": "Риддер",
+		"population": "48008",
+		"status": "3",
+		"regionName": "Восточно-Казахстанская область"
+	},
+	{
+		"id": "154",
+		"runame_rus": "Рудный",
+		"runame": "Рудный",
+		"kzname": "Рудный",
+		"population": "115313",
+		"status": "3",
+		"regionName": "Костанайская область"
+	},
+	{
+		"id": "155",
+		"runame_rus": "Сарань",
+		"runame": "Сарань",
+		"kzname": "Саран",
+		"population": "43291",
+		"status": "3",
+		"regionName": "Карагандинская область"
+	},
+	{
+		"id": "156",
+		"runame_rus": "Сарканд",
+		"runame": "Сарканд",
+		"kzname": "Сарқант",
+		"population": "11362",
+		"status": "4",
+		"regionName": "Алматинская область"
+	},
+	{
+		"id": "157",
+		"runame_rus": "Сарыагаш",
+		"runame": "Сарыагаш",
+		"kzname": "Сарыағаш",
+		"population": "32998",
+		"status": "4",
+		"regionName": "Туркестанская область"
+	},
+	{
+		"id": "158",
+		"runame_rus": "Сатпаев",
+		"runame": "Сатпаев",
+		"kzname": "Сәтбаев",
+		"population": "61521",
+		"status": "3",
+		"regionName": "Карагандинская область"
+	},
+	{
+		"id": "159",
+		"runame_rus": "Семей",
+		"runame": "Семей",
+		"kzname": "Семей",
+		"population": "323199",
+		"status": "3",
+		"regionName": "Восточно-Казахстанская область"
+	},
+	{
+		"id": "160",
+		"runame_rus": "Сергеевка",
+		"runame": "Сергеевка",
+		"kzname": "Сергеев",
+		"population": "7686",
+		"status": "4",
+		"regionName": "Северо-Казахстанская область"
+	},
+	{
+		"id": "161",
+		"runame_rus": "Серебрянск",
+		"runame": "Серебрянск",
+		"kzname": "Серебрянск",
+		"population": "8429",
+		"status": "3",
+		"regionName": "Восточно-Казахстанская область"
+	},
+	{
+		"id": "162",
+		"runame_rus": "Степногорск",
+		"runame": "Степногорск",
+		"kzname": "Степногорск",
+		"population": "45919",
+		"status": "3",
+		"regionName": "Акмолинская область"
+	},
+	{
+		"id": "163",
+		"runame_rus": "Степняк",
+		"runame": "Степняк",
+		"kzname": "Степняк",
+		"population": "3510",
+		"status": "4",
+		"regionName": "Акмолинская область"
+	},
+	{
+		"id": "164",
+		"runame_rus": "Тайынша",
+		"runame": "Тайынша",
+		"kzname": "Тайынша",
+		"population": "11435",
+		"status": "4",
+		"regionName": "Северо-Казахстанская область"
+	},
+	{
+		"id": "165",
+		"runame_rus": "Талгар",
+		"runame": "Талгар",
+		"kzname": "Талғар",
+		"population": "42871",
+		"status": "4",
+		"regionName": "Алматинская область"
+	},
+	{
+		"id": "166",
+		"runame_rus": "Талдыкорган",
+		"runame": "Талдыкорган",
+		"kzname": "Талдықорған",
+		"population": "145365",
+		"status": "2",
+		"regionName": "Алматинская область"
+	},
+	{
+		"id": "167",
+		"runame_rus": "Тараз",
+		"runame": "Тараз",
+		"kzname": "Тараз",
+		"population": "357528",
+		"status": "2",
+		"regionName": "Жамбыльская область"
+	},
+	{
+		"id": "168",
+		"runame_rus": "Текели",
+		"runame": "Текели",
+		"kzname": "Текелі",
+		"population": "31957",
+		"status": "3",
+		"regionName": "Алматинская область"
+	},
+	{
+		"id": "169",
+		"runame_rus": "Темир",
+		"runame": "Темир",
+		"kzname": "Темір",
+		"population": "2159",
+		"status": "5",
+		"regionName": "Актюбинская область"
+	},
+	{
+		"id": "170",
+		"runame_rus": "Темиртау",
+		"runame": "Темиртау",
+		"kzname": "Теміртау",
+		"population": "179234",
+		"status": "3",
+		"regionName": "Карагандинская область"
+	},
+	{
+		"id": "171",
+		"runame_rus": "Тобыл",
+		"runame": "Тобыл",
+		"kzname": "Тобыл",
+		"population": "24590",
+		"status": "4",
+		"regionName": "Костанайская область"
+	},
+	{
+		"id": "172",
+		"runame_rus": "Туркестан",
+		"runame": "Туркестан",
+		"kzname": "Түркістан",
+		"population": "164963",
+		"status": "2",
+		"regionName": "Туркестанская область"
+	},
+	{
+		"id": "173",
+		"runame_rus": "Уральск",
+		"runame": "Уральск",
+		"kzname": "Орал",
+		"population": "234167",
+		"status": "2",
+		"regionName": "Западно-Казахстанская область"
+	},
+	{
+		"id": "174",
+		"runame_rus": "Усть-Каменогорск",
+		"runame": "Усть-Каменогорск",
+		"kzname": "Өскемен",
+		"population": "331597",
+		"status": "2",
+		"regionName": "Восточно-Казахстанская область"
+	},
+	{
+		"id": "175",
+		"runame_rus": "Ушарал",
+		"runame": "Ушарал",
+		"kzname": "Үшарал",
+		"population": "17183",
+		"status": "4",
+		"regionName": "Алматинская область"
+	},
+	{
+		"id": "176",
+		"runame_rus": "Уштобе",
+		"runame": "Уштобе",
+		"kzname": "Үштөбе",
+		"population": "22981",
+		"status": "4",
+		"regionName": "Алматинская область"
+	},
+	{
+		"id": "177",
+		"runame_rus": "Форт-Шевченко",
+		"runame": "Форт-Шевченко",
+		"kzname": "Форт-Шевченко",
+		"population": "6371",
+		"status": "3",
+		"regionName": "Мангистауская область"
+	},
+	{
+		"id": "178",
+		"runame_rus": "Хромтау",
+		"runame": "Хромтау",
+		"kzname": "Хромтау",
+		"population": "26737",
+		"status": "4",
+		"regionName": "Актюбинская область"
+	},
+	{
+		"id": "179",
+		"runame_rus": "Шардара",
+		"runame": "Шардара",
+		"kzname": "Шардара",
+		"population": "28415",
+		"status": "4",
+		"regionName": "Туркестанская область"
+	},
+	{
+		"id": "180",
+		"runame_rus": "Шалкар",
+		"runame": "Шалкар",
+		"kzname": "Шалқар",
+		"population": "27953",
+		"status": "4",
+		"regionName": "Актюбинская область"
+	},
+	{
+		"id": "181",
+		"runame_rus": "Шар",
+		"runame": "Шар",
+		"kzname": "Шар",
+		"population": "6780",
+		"status": "3",
+		"regionName": "Восточно-Казахстанская область"
+	},
+	{
+		"id": "182",
+		"runame_rus": "Шахтинск",
+		"runame": "Шахтинск",
+		"kzname": "Шахтинск",
+		"population": "37645",
+		"status": "3",
+		"regionName": "Карагандинская область"
+	},
+	{
+		"id": "183",
+		"runame_rus": "Шемонаиха",
+		"runame": "Шемонаиха",
+		"kzname": "Шемонаиха",
+		"population": "18214",
+		"status": "4",
+		"regionName": "Восточно-Казахстанская область"
+	},
+	{
+		"id": "184",
+		"runame_rus": "Шу",
+		"runame": "Шу",
+		"kzname": "Шу",
+		"population": "36656",
+		"status": "4",
+		"regionName": "Жамбыльская область"
+	},
+	{
+		"id": "185",
+		"runame_rus": "Шымкент",
+		"runame": "Шымкент",
+		"kzname": "Шымкент",
+		"population": "1011511",
+		"status": "1",
+		"regionName": "Туркестанская область"
+	},
+	{
+		"id": "186",
+		"runame_rus": "Щучинск",
+		"runame": "Щучинск",
+		"kzname": "Щучинск",
+		"population": "46807",
+		"status": "4",
+		"regionName": "Акмолинская область"
+	},
+	{
+		"id": "187",
+		"runame_rus": "Экибастуз",
+		"runame": "Экибастуз",
+		"kzname": "Екібастұз",
+		"population": "133942",
+		"status": "3",
+		"regionName": "Павлодарская область"
+	},
+	{
+		"id": "188",
+		"runame_rus": "Эмба",
+		"runame": "Эмба",
+		"kzname": "Ембі",
+		"population": "11811",
+		"status": "5",
+		"regionName": "Актюбинская область"
+	}
+]

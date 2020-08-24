@@ -1,0 +1,26 @@
+{
+  "newUser": {
+    "phone": "99999999999",
+    "password": "1234567",
+    "name": "My Name",
+    "type": "ie",
+    "iin": "740909350656",
+    "token": null,
+    "smsCodeId": null,
+    "phoneForChange": "99999999990"
+  },
+  "newShop": {
+    "name": "1234567",
+    "street": "213",
+    "house": "15б",
+    "features": {
+      "24/7": true,
+      "gold": false,
+      "guard": true
+    },
+    "cityId": 108,
+    "workingdays": [
+      { "day": "Пн", "active": true, "from": "09:00", "till": "18:00" }
+    ]
+  }
+}

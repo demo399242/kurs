@@ -1,0 +1,6 @@
+version: '3'
+services:
+  frontend:
+    env_file:
+      - ./conf/frontend-dev-gambi.env
+ 
